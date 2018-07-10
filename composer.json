@@ -1,0 +1,21 @@
+{
+    "name": "apol88/cheditor-dual",
+    "description": "chedtor dual",
+    "type": "yii2-extention",
+    "license": "BSD-3-Clause",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "apol88",
+            "email": "apol88sh@yandex.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "apol88\\cheditor-dual\\": ""
+        }
+    }
+}
